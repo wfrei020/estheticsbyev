@@ -1,29 +1,27 @@
 {
   "files": {
     "main.css": "/estheticsbyev/static/css/main.9cd95605.chunk.css",
-    "main.js": "/estheticsbyev/static/js/main.510e64c8.chunk.js",
-    "main.js.map": "/estheticsbyev/static/js/main.510e64c8.chunk.js.map",
+    "main.js": "/estheticsbyev/static/js/main.da65ae13.chunk.js",
+    "main.js.map": "/estheticsbyev/static/js/main.da65ae13.chunk.js.map",
     "runtime-main.js": "/estheticsbyev/static/js/runtime-main.3146eb26.js",
     "runtime-main.js.map": "/estheticsbyev/static/js/runtime-main.3146eb26.js.map",
-    "static/js/2.1f95af94.chunk.js": "/estheticsbyev/static/js/2.1f95af94.chunk.js",
-    "static/js/2.1f95af94.chunk.js.map": "/estheticsbyev/static/js/2.1f95af94.chunk.js.map",
+    "static/js/2.826780c7.chunk.js": "/estheticsbyev/static/js/2.826780c7.chunk.js",
+    "static/js/2.826780c7.chunk.js.map": "/estheticsbyev/static/js/2.826780c7.chunk.js.map",
     "index.html": "/estheticsbyev/index.html",
-    "precache-manifest.feb68424dfeaec08ce1dd5d17d16479c.js": "/estheticsbyev/precache-manifest.feb68424dfeaec08ce1dd5d17d16479c.js",
+    "precache-manifest.2f64004e6aa75d022f17690391026ee4.js": "/estheticsbyev/precache-manifest.2f64004e6aa75d022f17690391026ee4.js",
     "service-worker.js": "/estheticsbyev/service-worker.js",
     "static/css/main.9cd95605.chunk.css.map": "/estheticsbyev/static/css/main.9cd95605.chunk.css.map",
-    "static/js/2.1f95af94.chunk.js.LICENSE.txt": "/estheticsbyev/static/js/2.1f95af94.chunk.js.LICENSE.txt",
+    "static/js/2.826780c7.chunk.js.LICENSE.txt": "/estheticsbyev/static/js/2.826780c7.chunk.js.LICENSE.txt",
     "static/media/Relax-Renew-Spa-Panel-2-Background.jpg": "/estheticsbyev/static/media/Relax-Renew-Spa-Panel-2-Background.c86dd792.jpg",
     "static/media/material-kit-react.scss?v=1.9.0": "/estheticsbyev/static/media/Tomatoes-O8L8.5eeaab68.ttf",
-    "static/media/avatar.jpg": "/estheticsbyev/static/media/avatar.f1d71f77.jpg",
     "static/media/bg.jpg": "/estheticsbyev/static/media/bg.e5241971.jpg",
     "static/media/bg2.jpg": "/estheticsbyev/static/media/bg2.84378183.jpg",
     "static/media/bg3.jpg": "/estheticsbyev/static/media/bg3.e76de24b.jpg",
     "static/media/bg7.jpg": "/estheticsbyev/static/media/bg7.b08234a2.jpg",
-    "static/media/christian.jpg": "/estheticsbyev/static/media/christian.56633ed3.jpg",
     "static/media/clem-onojegaw.jpg": "/estheticsbyev/static/media/clem-onojegaw.c058841b.jpg",
     "static/media/clem-onojeghuo.jpg": "/estheticsbyev/static/media/clem-onojeghuo.216ef03c.jpg",
     "static/media/cynthia-del-rio.jpg": "/estheticsbyev/static/media/cynthia-del-rio.9813593c.jpg",
-    "static/media/kendall.jpg": "/estheticsbyev/static/media/kendall.e0508cc9.jpg",
+    "static/media/eva.jpg": "/estheticsbyev/static/media/eva.7ecf8b1c.jpg",
     "static/media/landing-bg.jpg": "/estheticsbyev/static/media/landing-bg.df8fd3ef.jpg",
     "static/media/landing.jpg": "/estheticsbyev/static/media/landing.08e18cb9.jpg",
     "static/media/mariya-georgieva.jpg": "/estheticsbyev/static/media/mariya-georgieva.4575c40b.jpg",
@@ -39,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3146eb26.js",
-    "static/js/2.1f95af94.chunk.js",
+    "static/js/2.826780c7.chunk.js",
     "static/css/main.9cd95605.chunk.css",
-    "static/js/main.510e64c8.chunk.js"
+    "static/js/main.da65ae13.chunk.js"
   ]
 }

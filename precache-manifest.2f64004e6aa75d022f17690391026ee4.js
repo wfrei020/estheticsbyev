@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "857a292dc72a1055def51ff34c93f9d1",
+    "revision": "2b60a2ea3b8c161637ac296c3fa4c29e",
     "url": "/estheticsbyev/index.html"
   },
   {
-    "revision": "979e0790803d8d9adc0f",
+    "revision": "157cb2d5701947b2fde7",
     "url": "/estheticsbyev/static/css/main.9cd95605.chunk.css"
   },
   {
-    "revision": "8e55adcd80f1ffb165cc",
-    "url": "/estheticsbyev/static/js/2.1f95af94.chunk.js"
+    "revision": "583b1e05fbe059df0018",
+    "url": "/estheticsbyev/static/js/2.826780c7.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/estheticsbyev/static/js/2.1f95af94.chunk.js.LICENSE.txt"
+    "url": "/estheticsbyev/static/js/2.826780c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "979e0790803d8d9adc0f",
-    "url": "/estheticsbyev/static/js/main.510e64c8.chunk.js"
+    "revision": "157cb2d5701947b2fde7",
+    "url": "/estheticsbyev/static/js/main.da65ae13.chunk.js"
   },
   {
     "revision": "3908fbb89fd551295144",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5eeaab6850aab5765ef94b0b34904267",
     "url": "/estheticsbyev/static/media/Tomatoes-O8L8.5eeaab68.ttf"
-  },
-  {
-    "revision": "f1d71f777331fd7e3de116edf4ee3b67",
-    "url": "/estheticsbyev/static/media/avatar.f1d71f77.jpg"
   },
   {
     "revision": "e52419719dd0c4c8b172136f0b625008",
@@ -52,10 +48,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/estheticsbyev/static/media/bg7.b08234a2.jpg"
   },
   {
-    "revision": "56633ed3f62f39d71f571374a6409e65",
-    "url": "/estheticsbyev/static/media/christian.56633ed3.jpg"
-  },
-  {
     "revision": "c058841b1dd64e5f79c6348b24cfb78d",
     "url": "/estheticsbyev/static/media/clem-onojegaw.c058841b.jpg"
   },
@@ -68,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/estheticsbyev/static/media/cynthia-del-rio.9813593c.jpg"
   },
   {
-    "revision": "e0508cc923eb0b5e68ca6783c53d0f1d",
-    "url": "/estheticsbyev/static/media/kendall.e0508cc9.jpg"
+    "revision": "7ecf8b1c42ba47f3dd4fb023a19aa43e",
+    "url": "/estheticsbyev/static/media/eva.7ecf8b1c.jpg"
   },
   {
     "revision": "df8fd3efcd662b64b44de07f351c838b",
