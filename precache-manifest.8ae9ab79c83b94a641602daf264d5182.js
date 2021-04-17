@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "023b518821ea1d97a00fa5d0b590b8fc",
+    "revision": "cfce9ece1a023ebc17a867d7e181f9d2",
     "url": "/estheticsbyev/index.html"
   },
   {
-    "revision": "82a12c9ded0c99e5f03a",
+    "revision": "698380220319e03245da",
     "url": "/estheticsbyev/static/css/main.1aae89dc.chunk.css"
   },
   {
-    "revision": "6bc84278c64242c1e12e",
-    "url": "/estheticsbyev/static/js/2.72191988.chunk.js"
+    "revision": "86b46d79a6ab9079b6a7",
+    "url": "/estheticsbyev/static/js/2.67908674.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/estheticsbyev/static/js/2.72191988.chunk.js.LICENSE.txt"
+    "url": "/estheticsbyev/static/js/2.67908674.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82a12c9ded0c99e5f03a",
-    "url": "/estheticsbyev/static/js/main.5d91e45a.chunk.js"
+    "revision": "698380220319e03245da",
+    "url": "/estheticsbyev/static/js/main.cc9478cb.chunk.js"
   },
   {
     "revision": "3908fbb89fd551295144",
